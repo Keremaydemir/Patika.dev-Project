@@ -1,0 +1,24 @@
+[7,5,1,8,3,6,0,9,4,2]
+
+root 7 dir.
+-> 5<7 dir 
+-> 1<7 dir
+-> 8>7 dir
+-> 3<7 dir
+-> 6<7 dir
+-> 0<7 dir
+-> 9>7 dir
+-> 4<7 dir
+-> 2<7 dir
+
+roottan küçük olanlar sol tarafa; büyük olanlar sağ tarafa toplanır.
+
+                                   7
+                             5          8
+                          1     6         9
+                        0         3         
+                                2   4
+
+
+
+
